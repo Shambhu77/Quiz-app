@@ -1,0 +1,23 @@
+.about-page {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 2rem;
+  background: #f9f9f9;
+  border-radius: 12px;
+  line-height: 1.6;
+}
+
+.about-page h2, h3 {
+  margin-top: 1rem;
+}
+
+.about-page ul {
+  padding-left: 1.5rem;
+}
+
+.about-meme {
+  margin-top: 1rem;
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}

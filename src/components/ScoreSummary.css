@@ -1,0 +1,29 @@
+.score-summary {
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #f0f0f0;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.score-summary h2 {
+  margin-bottom: 1rem;
+}
+
+.score-summary .message {
+  margin: 1rem 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.score-summary button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
